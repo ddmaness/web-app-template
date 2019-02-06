@@ -1,0 +1,32 @@
+{
+  "name": "web-app-template-master",
+  "version": "1.0.0",
+  "description": "base template for web app",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "imagemin-pngquant": "^7.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddmaness/web-app-template.git"
+  },
+  "author": "Donald Maness",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ddmaness/web-app-template/issues"
+  },
+  "homepage": "https://github.com/ddmaness/web-app-template#readme"
+}
